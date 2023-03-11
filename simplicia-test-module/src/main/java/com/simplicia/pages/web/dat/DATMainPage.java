@@ -578,8 +578,8 @@ public class DATMainPage extends SimpliciaPage {
 		performHorizontalScroll();
 //		clickDatActionButton();
 		retry(() -> clickDatActionButton());
-		downloadZIPButton.click();
-
+		//downloadZIPButton.click();
+		clickHiddenElementUsingJavaScript("//span[text()='save_alt']//ancestor::button[@type='button']");
 		// wait for file to download
 		sleepSilently(5000);
 
