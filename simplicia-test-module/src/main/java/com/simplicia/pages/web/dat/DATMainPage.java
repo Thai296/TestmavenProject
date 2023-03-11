@@ -377,6 +377,8 @@ public class DATMainPage extends SimpliciaPage {
 	public boolean isDatPresentOnDashboard(String sNumeroSS) {
 		AtomicBoolean found = new AtomicBoolean(false);
 		retrySilently(() -> {
+			clickHiddenElementUsingJavaScript("//span[text()='remove']//ancestor::button[@type='button']");
+			clickHiddenElementUsingJavaScript("//span[text()='remove']//ancestor::button[@type='button']");
 			LOGGER.info("Checking if DAT is found on table: " + sNumeroSS);
 			// Enter registration number / Numero SS in the search input field
 			new CustomWebDriverWait(browser, 50).until(ExpectedConditions.visibilityOfElementLocated(By.xpath(TXT_FIELD_SEARCH_DAT)));
