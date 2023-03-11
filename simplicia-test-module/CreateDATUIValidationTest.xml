@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="CreateDATUIValidationTest">
+
+<!-- 	<test name="Navigate to Left navigation menu. Click on 'DAT' and click 'Mes DATs and create a new DAT"> -->
+<!-- 		<classes> -->
+<!-- 			<class name="com.simplicia.web.dat.CreateDATUIValidationTest"> -->
+<!-- 				<methods> -->
+<!-- 					<include name="dat_Test_06_Submit_To_Health_Insurance" /> -->
+<!-- 				</methods> -->
+<!-- 			</class> -->
+<!-- 		</classes> -->
+<!-- 	</test> -->
+<!-- 	<test name="5"> -->
+<!-- 		<classes> -->
+<!-- 			<class name="com.simplicia.web.dat.CreateDATUIValidationTest"> -->
+<!-- 				<methods> -->
+<!-- 					<include name="dat_Test_05_Lawyer_Review" /> -->
+<!-- 				</methods> -->
+<!-- 			</class> -->
+<!-- 		</classes> -->
+<!-- 	</test> -->
+	<test name="4">
+		<classes>
+			<class name="com.simplicia.web.dat.CreateDATUIValidationTest">
+				<methods>
+					<include name="dat_Test_03_Export" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+<!-- 	<test name="1"> -->
+<!-- 		<classes> -->
+<!-- 			<class name="com.simplicia.web.dat.CreateDATUIValidationTest"> -->
+<!-- 				<methods> -->
+<!-- 					<include name="dat_Test_01_create" /> -->
+<!-- 				</methods> -->
+<!-- 			</class> -->
+<!-- 		</classes> -->
+<!-- 	</test> -->
+</suite> 

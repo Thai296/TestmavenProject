@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Entete PGMD_Profil="ENTDAT" Profil_Version="05.05" xmlns="urn:cnamts:tlsemp:ENTDAT">
+  <Identification>1053</Identification>
+  <Temps>2022-11-04T07:05:12</Temps>
+  <Fonction>9</Fonction>
+  <Preference>XML</Preference>
+  <Emetteur>
+    <Identite R="SIRET">84250305400012</Identite>
+    <Qualite>NETAUT</Qualite>
+    <Pphysique>
+      <Nom>
+        <Usage>BEDOUCHA</Usage>
+        <Prenom>CHARLES</Prenom>
+      </Nom>
+    </Pphysique>
+    <Telecom>
+      <Type>EM</Type>
+      <Numero>L.MORAIS@CLOSCHAMPIROL.COM</Numero>
+    </Telecom>
+    <Agrement>
+      <Id>SMPL368D3058</Id>
+      <Version>1.00</Version>
+    </Agrement>
+  </Emetteur>
+  <Recepteur>
+    <Identite R="ORGIR">010000000</Identite>
+    <Qualite>ACNAM</Qualite>
+  </Recepteur>
+  <Document>
+    <Mindex>
+      <Profil>S6200G</Profil>
+      <Identification>DAT</Identification>
+      <Temps>2022-11-04T07:05:12</Temps>
+      <Fonction>9</Fonction>
+      <Origine>
+        <Identite R="SIRET">41866003100034</Identite>
+      </Origine>
+      <Sujet>
+        <Identite R="NIR">265124221808710</Identite>
+      </Sujet>
+    </Mindex>
+    <Lien>
+      <Adresse>DAT.xml</Adresse>
+      <Type>XML</Type>
+    </Lien>
+    <Lien>
+      <Adresse>pj-ext-022011-1-excuses-vallery.pdf</Adresse>
+      <Type>PDF</Type>
+    </Lien>
+  </Document>
+</Entete>

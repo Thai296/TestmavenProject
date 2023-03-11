@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<DAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Nature="S6200G" Version="05.07" xsi:schemaLocation="urn:cnamts:tlsemp:DAT schema.xsd" xmlns="urn:cnamts:tlsemp:DAT">
+  <Identifiant>1053</Identifiant>
+  <Date>2022-11-04</Date>
+  <Fonction>9</Fonction>
+  <Emetteur>
+    <SIRET>41866003100034</SIRET>
+    <Adresse>
+      <Localite>42270 SAINT-PRIEST-EN-JAREZ</Localite>
+    </Adresse>
+    <Email>L.MORAIS@CLOSCHAMPIROL.COM</Email>
+    <Qualite>Assistante administrative</Qualite>
+    <NomUsage>MORAIS</NomUsage>
+    <Prenom>LAETITIA</Prenom>
+  </Emetteur>
+  <AccidentDuTravail>
+    <Date>2022-11-03</Date>
+    <Heure>19:00:00</Heure>
+    <AutreVictime>false</AutreVictime>
+    <Circonstances>
+      <Activite>En tirant le panier de plonge, </Activite>
+      <Nature>une lame de couteau dépassait et Mme VALLERY s'est coupée au majeur droit.</Nature>
+      <Objet>Un couteau de cuisine</Objet>
+    </Circonstances>
+    <Lieu>
+      <SIRET>41866003100034</SIRET>
+      <Nom>LE CLOS CHAMPIROL - EHPAD</Nom>
+      <Adresse>
+        <NomVoie>avenue Albert Raimond</NomVoie>
+        <Localite>42270 SAINT-PRIEST-EN-JAREZ</Localite>
+      </Adresse>
+      <Code Q="LieuAccident">2</Code>
+    </Lieu>
+    <Type Q="NatureAT">0</Type>
+    <Horaire>
+      <Debut>08:00:00</Debut>
+      <Fin>20:00:00</Fin>
+    </Horaire>
+    <Horaire>
+      <Debut>00:00:00</Debut>
+      <Fin>00:00:00</Fin>
+    </Horaire>
+    <Lesion>
+      <InfoSiege>Majeur DROIT(S)</InfoSiege>
+      <InfoNature>Coupure</InfoNature>
+    </Lesion>
+    <ConstatAT>
+      <Constatant>3</Constatant>
+      <DecritParVictime>true</DecritParVictime>
+      <Mode>2</Mode>
+      <Temps>2022-11-04T13:00:00</Temps>
+      <Consequence>1</Consequence>
+      <DecesVictime>false</DecesVictime>
+    </ConstatAT>
+    <Victime>
+      <Embauche>2019-05-11</Embauche>
+      <Anciennete>1</Anciennete>
+      <NIR>265124221808710</NIR>
+      <Adresse>
+        <NomVoie>46 RUE DE VILLARS</NomVoie>
+        <Localite>42270 ST PRIEST EN JAREZ</Localite>
+      </Adresse>
+      <Nationalite>2</Nationalite>
+      <Nom>VALLERY</Nom>
+      <Prenom>JOCELYNE</Prenom>
+      <Sexe>2</Sexe>
+      <Naissance>1965-12-07</Naissance>
+      <Emploi>
+        <AttributProf Q="Profession">0000</AttributProf>
+        <AttributProf Q="QualificationATMP">3</AttributProf>
+        <AttributProf Q="Texte">Agent de service hôtelier</AttributProf>
+        <ContratDeTravail>
+          <Nature>1</Nature>
+        </ContratDeTravail>
+      </Emploi>
+      <Employeur>
+        <RaisonSociale>401-T063</RaisonSociale>
+        <Adresse>
+          <NomVoie>Avenue Albert Raimond</NomVoie>
+          <Localite>42270 SAINT-PRIEST-EN-JAREZ</Localite>
+        </Adresse>
+      </Employeur>
+      <EtablissementAttache>
+        <RisqueSS>853AC</RisqueSS>
+        <SIRET>41866003100034</SIRET>
+        <Adresse>
+          <NomVoie>Avenue Albert Raimond</NomVoie>
+          <Localite>42270 SAINT-PRIEST-EN-JAREZ</Localite>
+        </Adresse>
+        <Telecom>
+          <Telephone>0477921919</Telephone>
+          <Email>L.MORAIS@CLOSCHAMPIROL.COM</Email>
+        </Telecom>
+      </EtablissementAttache>
+    </Victime>
+  </AccidentDuTravail>
+</DAT>

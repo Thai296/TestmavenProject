@@ -1,0 +1,136 @@
+<test>
+  <myProfileDetails>
+    <param name="ACCESS_NET_ENTERPRISE">84250305400012</param>
+    <param name="SELECTIONNEZ_UN_EASTB">SIMPLICIA 12</param>
+    <param name="COMPLEMENT">164</param>
+    <param name="VOIE">163 AV LEDRU ROLLIN</param>
+    <param name="POSTAL_CODE">75011 PARIS 11</param>
+    <param name="PAYS">France</param>
+    <param name="SIRET">84250305400012</param>
+    <param name="EMAIL">charlesbedoucha@simplicia.co</param>
+    <param name="TELEPHONE">0663234968</param>
+    <param name="NUMERO_DE_RISQUE">745BD</param>
+    <param name="CA_POINT_REMISE">NIVFAJ</param>
+    <param name="CA_COMPLEMENT">164</param>
+    <param name="CA_VOIE">163 AV LEDRU ROLLIN</param>
+    <param name="CA_MENTION_DISTB">ARJTAM</param>
+    <param name="CA_POSTAL_CODE">75011 PARIS 11</param>
+    <param name="CA_PAYS">France</param>
+    <param name="HS_NOM">Bedoucha</param>
+    <param name="HS_POINT_REMISE">Remise</param>
+    <param name="HS_COMPLEMENT">164</param>
+    <param name="HS_VOIE">163 AV LEDRU ROLLIN</param>
+    <param name="HS_MENTION_DISTB">Block A</param>
+    <param name="HS_POSTAL_CODE">75001 PARIS</param>
+    <param name="HS_PAYS">France</param>
+  </myProfileDetails>
+  <accident1Details>
+    <param name="TXT_FIELD_DATE_DE_ACCIDENT">05/09/2017</param>
+    <param name="TXT_FILED_HEURE_DE_ACCIDENT">08:00</param>
+    <param name="TXT_FIELD_DE">09:00:00</param>
+    <param name="TXT_FIELD_A">12:00:00</param>
+    <param name="TXT_FIELD_ET_DE">13:01:00</param>
+    <param name="TXT_FIELD_END_A">17:00:00</param>
+    <param name="ICON_SELECT_PRECISION">Au cours du trajet entre le domicile et le lieu de travail</param>
+    <param name="TXT_FIELD_NOM">Paul</param>
+    <param name="TXT_FIELD_POINT_DE_REMISE">Remise163</param>
+    <param name="TXT_FIELD_COMPLEMENT">164</param>
+    <param name="TXT_FIELD_VOIE">01, chemin des mercenaires</param>
+    <param name="TXT_FIELD_MENTION_DISTB">ZXGYUC</param>
+    <param name="TXT_FIELD_POSTAL_CODE">75010 PARIS</param>
+    <param name="TXT_FIELD_PAYS">France</param>
+    <param name="TXT_FIELD_SIRET">78063740614268</param>
+    <param name="TXT_FIELD_ACTIVITE_DE_LA">La victime se rendait sur son lieu de travail</param>
+    <param name="TXT_FIELD_NATURE_DE_ACCIDENT">La victime a glissé et a percuté un trottoir avec le pied gauche</param>
+    <param name="TXT_FIELD_OBJET_DONT_LE_CONTACT">Trottoir</param>
+    <param name="TXT_FIELD_RESERVES_MOTIVEES">Reserves</param>
+    <param name="TXT_FIELD_SIEGE_DES_LESIONS">Petit orteil du pied gauche</param>
+    <param name="TXT_FIELD_NATURE_DES_LESIONS">Entorse</param>
+  </accident1Details>
+  <accident2Details>
+    <param name="ICON_SELECT_TYPE">Accident de travail</param>
+    <param name="ICON_SELECT_PAR">Préposé</param>
+    <param name="TXT_FIELD_DATE_OF_CONSTAT">03/10/2021</param>
+    <param name="TXT_FIELD_TIME_OF_CONSTAT">09:20</param>
+    <param name="TXT_FIELD_DATE_OF_CONSTAT_REGISTER">02/10/2021</param>
+    <param name="TXT_FIELD_RAPPORT_DE_POLICE_A_ETE_ETABLI_PAR">Par</param>
+    <param name="VICTIME_TRANSPORTEE_A">Yes</param>
+    <param name="VICTIME_TRANSPORTEE_POINT_DE_REMISE">Remise</param>
+    <param name="VICTIME_TRANSPORTEE_COMPLEMENT">163</param>
+    <param name="VICTIME_TRANSPORTEE_VOIE">163 AV LEDRU ROLLIN</param>
+    <param name="VICTIME_TRANSPORTEE_MENTION_DE_DISTB">Block A</param>
+    <param name="VICTIME_TRANSPORTEE_POSTAL_CODE">75001 PARIS</param>
+    <param name="VICTIME_TRANSPORTEE_PAYS">France</param>
+  </accident2Details>
+  <laVictimeDetails>
+    <param name="TXT_FIELD_TV_REGISTRATION">887864736400113</param>
+    <param name="ICON_SELECT_TV_SEX">Masculin</param>
+    <param name="TXT_FIELD_TV_DATE_OF_BIRTH">19/10/1991</param>
+    <param name="TXT_FIELD_TV_LAST_NAME">DURAND</param>
+    <param name="TXT_FIELD_TV_FIRST_NAME">Dat02</param>
+    <param name="TXT_FIELD_TV_POINT_OF_DELIVERY">Remise</param>
+    <param name="TXT_FIELD_TV_BUILDING">163</param>
+    <param name="TXT_FIELD_TV_STREET">51, avenue des petites écuries</param>
+    <param name="TXT_FIELD_TV_DISTRIBUTION_STMT">Block A</param>
+    <param name="TXT_FIELD_TV_POSTAL_CODE">75010 PARIS</param>
+    <param name="TXT_FIELD_TV_COUNTRY">France</param>
+    <param name="TXT_FIELD_TV_DATE_HIRE">09/01/2017</param>
+    <param name="ICON_SELECT_TV_NATIONALIE">Autres pays étrangers</param>
+    <param name="ICON_SELECT_TV_PROFESSION_CAT">Metiers qualifies de l'industrie et de l'artisanat</param>
+    <param name="ICON_SELECT_TV_PROFESSION">Métiers de lélectricité et de lélectrotechnique</param>
+    <param name="ICON_SELECT_TV_QUALIFICATION_PROF">Apprenti</param>
+    <param name="TXT_FIELD_TV_NAME_IN_COMPANY">precise</param>
+    <param name="ICON_SELECT_TV_NATURE_OF_CONTRACT">Intérimaire</param>
+    <param name="ICON_SELECT_TV_SENIORITY_IN_POS">Moins d'une semaine</param>
+    <param name="EU_NOM">Bedoucha</param>
+    <param name="EU_SIRET">84250305400012</param>
+    <param name="EU_EMAIL">charlesbedoucha@simplicia.co</param>
+    <param name="EMAIL">charlesbedoucha@simplicia.co</param>
+    <param name="EU_TELEPHONE">0663234968</param>
+    <param name="EU_NUMÉRO_DE_RISQUE_DE_SÉCURITÉ_SOCIALE">745BD</param>
+    <param name="EU_POINT_DE_REMISE">remise</param>
+    <param name="EU_COMPLEMENT">164</param>
+    <param name="EU_VOIE">163 AV LEDRU ROLLIN</param>
+    <param name="EU_MENTIONE_DE_DISB">Block A</param>
+    <param name="EU_POSTAL_CODE">75001 PARIS</param>
+    <param name="EU_PAYS">France</param>
+    <param name="CHK_TV_OTHER_VICTIM">false</param>
+  </laVictimeDetails>
+  <lesTemonisDetails>
+    <param name="PERSONNE_AVISEE_NOM">L'INFIRMIERE du CNDA</param>
+    <param name="PERSONNE_AVISEE_PRENOM">Marie</param>
+    <param name="PERSONNE_AVISEE_POINT_DE_REMISE">Times</param>
+    <param name="PERSONNE_AVISEE_COMPLEMENT">Résidence Leclerc bâtiment B</param>
+    <param name="PERSONNE_AVISEE_VOIE">21, rue du nord</param>
+    <param name="PERSONNE_AVISEE_MENTION_DISTB">Block A</param>
+    <param name="PERSONNE_AVISEE_POSTAL_CODE">75009 PARIS</param>
+    <param name="PERSONNE_AVISEE_PAYS">France</param>
+  </lesTemonisDetails>
+  <leTiersDetails>
+    <param name="LE_TIERS_NOM">Sharma</param>
+    <param name="LE_TIERS_PRENOM">Rakesh</param>
+    <param name="LE_TIERS_POINT_DE_REMISE">Times</param>
+    <param name="LE_TIERS_COMPLEMENT">163</param>
+    <param name="LE_TIERS_VOIE">163 AV LEDRU ROLLIN</param>
+    <param name="LE_TIERS_MENTION_DISTB">Block A7</param>
+    <param name="LE_TIERS_POSTAL_CODE">75001 PARIS</param>
+    <param name="LE_TIERS_PAYS">France</param>
+    <param name="SA_IDENTITE">Identie</param>
+    <param name="SA_SOCIETE_ASSURANCE">Societe</param>
+    <param name="SA_POINT_DE_REMISE">Times </param>
+    <param name="SA_COMPLEMENT">164</param>
+    <param name="SA_VOIE">163 AV LEDRU ROLLIN</param>
+    <param name="SA_MENTION_DISTB">Block A</param>
+    <param name="SA_POSTAL_CODE">75001 PARIS</param>
+    <param name="SA_PAYS">France</param>
+    <param name="SA_NUMERO_DE_CONTRAT">Numero</param>
+  </leTiersDetails>
+  <signatureDetails>
+    <param name="TXT_FIELD_SIGN_NOM">BEDOUCHA</param>
+    <param name="TXT_FIELD_SIGN_PRENOM">CHARLES</param>
+    <param name="TXT_FIELD_SIGN_EMAIL">charlesbedoucha@simplicia.co</param>
+    <param name="TXT_FIELD_SIGN_QUALITE">Infirmière</param>
+    <param name="TXT_FIELD_DATE">2021-10-02</param>
+    <param name="TXT_FIELD_UPLOAD_FILE">H:\Automation\Automation\simplicia-test-module\src\test\resources\ZIPtoXMLTestData\datdownload.zip</param>
+  </signatureDetails>
+</test>

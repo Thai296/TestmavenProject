@@ -30,7 +30,6 @@
 *.js
 *.txt
 *.lst
-*.xml
 
 # Folder#
 /simplicia-test-module/target

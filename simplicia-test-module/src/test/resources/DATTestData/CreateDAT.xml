@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<test>
+    <!-- Note: If want to generate random number against any KEY (which must be
+        alphanumeric or only numeric field e.g mobile, phone etc), put "randomNumber"
+        string in value attribute e.g <param name="KEY">random</param> -->
+    <myProfileDetails>
+        <param name="ACCESS_NET_ENTERPRISE"><!--simplicia-->SIMPLICIA</param>
+        <param name="SELECTIONNEZ_UN_EASTB">SIMPLICIA 12 84250305400012</param>
+        <param name="RAISON_SOCIAL_ETABLISSSMNET">SIMPLICIA 12</param>
+        <param name="EMAIL_SIGNATURE">charlesbedoucha@simplicia.co</param>
+        <param name="COMPLEMENT">164</param>
+        <param name="VOIE">AV LEDRU ROLLIN</param>
+        <param name="POSTAL_CODE">75001 PARIS 11</param>
+        <param name="PAYS">France</param>
+        <param name="SIRET">84250305400013</param>
+        <param name="EMAIL">random_email</param>
+        <param name="TELEPHONE">0663234968</param>
+        <param name="NUMERO_DE_RISQUE">0000A</param>
+        <param name="CA_POINT_REMISE">random</param>
+        <param name="CA_COMPLEMENT">164</param>
+        <param name="CA_VOIE">AV LEDRU ROLLIN</param>
+        <param name="CA_MENTION_DISTB">random</param>
+        <param name="CA_POSTAL_CODE">75011 PARIS 11</param>
+        <param name="CA_PAYS">France</param>
+        <param name="HS_NOM">random</param>
+        <param name="HS_POINT_REMISE">random</param>
+        <param name="HS_COMPLEMENT">164</param>
+        <param name="HS_VOIE">AV LEDRU ROLLIN</param>
+        <param name="HS_MENTION_DISTB">random</param>
+        <param name="HS_POSTAL_CODE">75001 PARIS 11</param>
+        <param name="HS_PAYS">France</param>
+
+    </myProfileDetails>
+
+    <!-- La Victime tab details-->
+    <laVictimeDetails>
+        <param name="TXT_FIELD_TV_REGISTRATION">random</param>
+        <param name="ICON_SELECT_TV_SEX">Masculin</param>
+        <param name="TXT_FIELD_TV_DATE_OF_BIRTH">13-04-1979</param>
+        <param name="TXT_FIELD_TV_LAST_NAME">random</param>
+        <param name="TXT_FIELD_TV_FIRST_NAME">random</param>
+        <param name="TXT_FIELD_TV_POINT_OF_DELIVERY">office premises</param>
+        <param name="TXT_FIELD_TV_BUILDING">164</param>
+        <param name="TXT_FIELD_TV_STREET">AV LEDRU ROLLIN</param>
+        <param name="TXT_FIELD_TV_DISTRIBUTION_STMT">random</param>
+        <param name="TXT_FIELD_TV_POSTAL_CODE">75001 PARIS 11</param>
+        <param name="TXT_FIELD_TV_COUNTRY">France</param>
+        <param name="TXT_FIELD_TV_DATE_HIRE">22/04/2019</param>
+        <param name="ICON_SELECT_TV_NATIONALIE">Francaise</param>
+        <param name="ICON_SELECT_TV_PROFESSION_CAT">Professions elementaires</param>
+        <param name="ICON_SELECT_TV_PROFESSION">Aides de ménage</param>
+        <param name="TXT_FIELD_TV_NAME_IN_COMPANY">random</param>
+        <param name="ICON_SELECT_TV_QUALIFICATION_PROF">Divers</param>
+        <param name="ICON_SELECT_TV_SENIORITY_IN_POS">Un an et plus</param>
+        <param name="ICON_SELECT_TV_NATURE_OF_CONTRACT">Intérimaire</param>
+        <param name="EU_NOM">random</param>
+        <param name="EU_SIRET">84250305400013</param>
+        <param name="EU_EMAIL">random_email</param>
+        <param name="EMAIL">random_email</param>
+        <param name="EU_TELEPHONE">0663234968</param>
+        <param name="EU_NUMÉRO_DE_RISQUE_DE_SÉCURITÉ_SOCIALE">745BD</param>
+        <param name="EU_POINT_DE_REMISE">random</param>
+        <param name="EU_COMPLEMENT">164</param>
+        <param name="EU_VOIE">AV LEDRU ROLLIN</param>
+        <param name="EU_MENTIONE_DE_DISB">random</param>
+        <param name="EU_POSTAL_CODE">75001 PARIS 11</param>
+        <param name="EU_PAYS">France</param>
+        <param name="CHK_TV_OTHER_VICTIM">Yes</param>
+    </laVictimeDetails>
+
+    <!-- Accident1 tab details-->
+    <accident1Details>
+        <param name="TXT_FIELD_DATE_DE_ACCIDENT">13/04/2021</param>
+        <param name="TXT_FILED_HEURE_DE_ACCIDENT">12:10</param>
+        <param name="TXT_FIELD_DE">09:00</param>
+        <param name="TXT_FIELD_A">05:00</param>
+        <param name="TXT_FIELD_ET_DE">13:01</param>
+        <param name="TXT_FIELD_END_A">17:00</param>
+        <param name="ICON_SELECT_PRECISION">Lieu du repas</param>
+        <param name="TXT_FIELD_NOM">random</param>
+        <param name="TXT_FIELD_POINT_DE_REMISE">random</param>
+        <param name="TXT_FIELD_COMPLEMENT">164</param>
+        <param name="TXT_FIELD_VOIE">164 AV LEDRU ROLLIN</param>
+        <param name="TXT_FIELD_MENTION_DISTB">random</param>
+        <param name="TXT_FIELD_POSTAL_CODE">75001 PARIS 11</param>
+        <param name="TXT_FIELD_PAYS">France</param>
+        <param name="TXT_FIELD_SIRET">84250305400013</param>
+        <param name="TXT_FIELD_ACTIVITE_DE_LA">random</param>
+        <param name="TXT_FIELD_NATURE_DE_ACCIDENT">random</param>
+        <param name="TXT_FIELD_OBJET_DONT_LE_CONTACT">random</param>
+        <param name="TXT_FIELD_RESERVES_MOTIVEES">random</param>
+        <param name="TXT_FIELD_SIEGE_DES_LESIONS">random</param>
+        <param name="TXT_FIELD_NATURE_DES_LESIONS">random</param>
+    </accident1Details>
+
+    <!--Accident 2 step details -->
+    <accident2Details>
+        <param name="ICON_SELECT_TYPE">Accident de travail</param>
+        <param name="ICON_SELECT_PAR">Autres</param>
+        <param name="TXT_FIELD_DATE_OF_CONSTAT">24/04/2021</param>
+        <param name="TXT_FIELD_TIME_OF_CONSTAT">10:00</param>
+        <param name="TXT_FIELD_SOUS_LE_NUMERO">random</param>
+        <param name="TXT_FIELD_IDENTIFIANT">random</param>
+        <param name="TXT_FIELD_RAPPORT_DE_POLICE_A_ETE_ETABLI_PAR">random</param>
+
+        <!--La victime a-t-elle été transportée - yes -->
+        <param name="VICTIME_TRANSPORTEE_A">random</param>
+        <param name="VICTIME_TRANSPORTEE_POINT_DE_REMISE">random</param>
+        <param name="VICTIME_TRANSPORTEE_COMPLEMENT">164</param>
+        <param name="VICTIME_TRANSPORTEE_VOIE">164 AV LEDRU ROLLIN</param>
+        <param name="VICTIME_TRANSPORTEE_MENTION_DE_DISTB">random</param>
+        <param name="VICTIME_TRANSPORTEE_POSTAL_CODE">75001 PARIS 11</param>
+        <param name="VICTIME_TRANSPORTEE_PAYS">FRANCE</param>
+    </accident2Details>
+
+    <!-- Step 5-->
+    <lesTemonisDetails>
+        <param name="TÉMOINS_NOM">random</param>
+        <param name="TÉMOINS_PRENOM">random</param>
+        <param name="TÉMOINS_POINT_DE_REMISE">random</param>
+        <param name="TÉMOINS_COMPLEMENT">164</param>
+        <param name="TÉMOINS_VOIE">AV LEDRU ROLLIN</param>
+        <param name="TÉMOINS_MENTION_DISTB">random</param>
+        <param name="TÉMOINS_POSTAL_CODE">75001 PARIS 11</param>
+        <param name="TÉMOINS_PAYS">FRANCE</param>
+
+        <!-- if 1 ere personne avisee -->
+        <param name="PERSONNE_AVISEE_NOM">random</param>
+        <param name="PERSONNE_AVISEE_PRENOM">random</param>
+        <param name="PERSONNE_AVISEE_POINT_DE_REMISE">random</param>
+        <param name="PERSONNE_AVISEE_COMPLEMENT">164</param>
+        <param name="PERSONNE_AVISEE_VOIE">AV LEDRU ROLLIN</param>
+        <param name="PERSONNE_AVISEE_MENTION_DISTB">random</param>
+        <param name="PERSONNE_AVISEE_POSTAL_CODE">75001 PARIS 11</param>
+        <param name="PERSONNE_AVISEE_PAYS">FRANCE</param>
+    </lesTemonisDetails>
+
+    <!-- Step 6-->
+    <leTiersDetails>
+        <!-- L’accident a-t-il été causé par un tiers ? -->
+        <param name="LE_TIERS_NOM">random</param>
+        <param name="LE_TIERS_PRENOM">random</param>
+        <param name="LE_TIERS_RAISON_SOCIALE">random</param>
+        <param name="LE_TIERS_POINT_DE_REMISE">164</param>
+        <param name="LE_TIERS_COMPLEMENT">164</param>
+        <param name="LE_TIERS_VOIE">AV LEDRU ROLLIN</param>
+        <param name="LE_TIERS_MENTION_DISTB">random</param>
+        <param name="LE_TIERS_POSTAL_CODE">75001 PARIS 11</param>
+        <param name="LE_TIERS_PAYS">FRANCE</param>
+
+        <!-- Société d'assurance du tiers-->
+        <param name="SA_IDENTITE">random</param>
+        <param name="SA_SOCIETE_ASSURANCE">random</param>
+        <param name="SA_POINT_DE_REMISE">164</param>
+        <param name="SA_COMPLEMENT">164</param>
+        <param name="SA_VOIE">AV LEDRU ROLLIN</param>
+        <param name="SA_MENTION_DISTB">random</param>
+        <param name="SA_POSTAL_CODE">75001 PARIS 11</param>
+        <param name="SA_PAYS">FRANCE</param>
+        <param name="SA_NUMERO_DE_CONTRAT">random</param>
+
+    </leTiersDetails>
+
+
+    <!--signature details -->
+    <signatureDetails>
+        <param name="TXT_FIELD_SIGN_NOM">random</param>
+        <param name="TXT_FIELD_SIGN_PRENOM">random</param>
+        <param name="TXT_FIELD_SIGN_QUALITE">random</param>
+        <param name="TXT_FIELD_SIGN_FAIT_A">random</param>
+        <param name="TXT_FIELD_DATE">24/04/2021</param>
+        <param name="TXT_FIELD_UPLOAD_FILE">path to file</param>
+
+    </signatureDetails>
+</test>

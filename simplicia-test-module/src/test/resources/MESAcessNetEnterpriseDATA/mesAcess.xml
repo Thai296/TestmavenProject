@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<test>
+    <!-- Note: If want to generate random number against any KEY (which must be
+        alphanumeric or only numeric field e.g mobile, phone etc), put "randomNumber"
+        string in value attribute e.g <param name="KEY">random</param> -->
+    <netEnterpriseValid>
+        <param name="TXT_FIELD_COMPANY_ID">84250305400012</param>
+        <param name="TXT_FIELD_NOM">bedoucha</param>
+        <param name="TXT_FIELD_PRENOM">charles</param>
+        <param name="TXT_FIELD_MOT_DE_PASS">*9&amp;fXRlFq9Pf9b$</param>
+        <param name="TXT_FIELD_NOM_SOCIETE">SIMPLICIA TEST</param>
+    </netEnterpriseValid>
+
+    <netEnterprise>
+        <param name="TXT_FIELD_COMPANY_ID">84250305411112</param>
+        <param name="TXT_FIELD_NOM">Test</param>
+        <param name="TXT_FIELD_PRENOM">QA</param>
+        <param name="TXT_FIELD_MOT_DE_PASS">pass@123</param>
+        <param name="TXT_FIELD_NOM_SOCIETE">test-qa</param>
+    </netEnterprise>
+    <updateNetEnterprise>
+        <param name="NOM">uNom</param>
+        <param name="PRENOM">uPrenom</param>
+        <param name="MOT_DE_PASS">pass@321</param>
+        <param name="NOM_SOCIETE">test-qa</param>
+    </updateNetEnterprise>
+
+    </test>
