@@ -418,14 +418,17 @@ public class DATMainPage extends SimpliciaPage {
 		
 //		retry(() -> clickDatActionButton());
 		clickDatActionButton();
-		deleteDATButton.click();
-
+		//deleteDATButton.click();
+		waitForElementToBeVisible("//span[text()='delete']//ancestor::button");
+		clickHiddenElementUsingJavaScript("//span[text()='delete']//ancestor::button");
 		// Check if confirm message is displayed
 		if (isTextPresent(datDeleteConfirm.getText())) {
 
 			// click on yes/ OUI
 			deleteConfirmOuiButton.wait("Wait for Oui button to display", 3);
-			deleteConfirmOuiButton.click();
+			//deleteConfirmOuiButton.click();
+			waitForElementToBeVisible("//span[text()='Oui']//ancestor::button");
+			clickHiddenElementUsingJavaScript("//span[text()='Oui']//ancestor::button");
 			LOGGER.info("Click Oui to delete DAT");
 
 		}
